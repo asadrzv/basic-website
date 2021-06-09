@@ -6,4 +6,4 @@ Philosophy of Music is a basic web-book created using HTML/CSS that goes over th
 
 The demo below goes over some of the basic functionality of the web-book.
 
-![Website Demo GIF](webbook-demo.gif)
+![WebBook Demo GIF](img/webbook-demo.gif)
