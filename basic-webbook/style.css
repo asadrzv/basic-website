@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+    margin: 20px;
+}
+
+a:link {
+    text-decoration: none;
+	color: blue;
+}
+
+a:visited {
+    text-decoration: none;
+	color:purple;
+}
+
+a:hover {
+    text-decoration: underline;
+	color: red;
+}
+
+a:active {
+    text-decoration: underline;
+	color: gray;
+}
